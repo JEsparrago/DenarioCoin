@@ -1,0 +1,2 @@
+# DenarioCoin
+Criptomoneda (GC)
